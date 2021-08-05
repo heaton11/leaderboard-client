@@ -1,0 +1,67 @@
+[{
+    "Country" : "tr",
+    "Username" : "Deneme",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "jp",
+    "Username" : "Rocky",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : -2
+}, {
+    "Country" : "us",
+    "Username" : "Salça",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 0
+}, {
+    "Country" : "tr",
+    "Username" : "Domates",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "be",
+    "Username" : "Biber",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 0
+}, {
+    "Country" : "gb",
+    "Username" : "Kayak",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : -1
+}, {
+    "Country" : "tr",
+    "Username" : "Batman",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "tr",
+    "Username" : "Kayak",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "tr",
+    "Username" : "Batman",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "tr",
+    "Username" : "Kayak",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}, {
+    "Country" : "tr",
+    "Username" : "Batman",
+    "Rank" : 1,
+    "Money" : 234324,
+    "DailyDiff" : 2
+}]

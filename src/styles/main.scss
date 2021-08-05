@@ -1,0 +1,16 @@
+@import "./variables";
+@import "./kendo";
+//@import "./typography";
+
+body {
+    font-family: "Arial";
+    background-color: $secondary;
+}
+
+main {
+    margin: auto;
+    max-width: 920px;
+    min-width: 500px;
+    padding: 0 20px;
+}
+  

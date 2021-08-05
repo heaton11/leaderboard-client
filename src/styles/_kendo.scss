@@ -1,0 +1,37 @@
+// Common
+$border-radius: 4px;
+
+// Grid
+$grid-bg: $white;
+$grid-header-bg: $primary;
+$grid-header-text: $white;
+
+// Typography
+$font-size: $font-size-default;
+
+@import "~@progress/kendo-theme-default/scss/grid/_index.scss";
+@import "~@progress/kendo-theme-default/scss/common/_index.scss";
+@import "~@progress/kendo-theme-default/scss/notification/_index.scss";
+
+
+.k-grid {
+    font-family: $lilita;
+    border-radius: 10px;
+    overflow: hidden;
+    th.k-header {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    tbody tr {
+        text-align: center;
+    }
+}
+
+.k-notification-container {
+    margin: 15px;
+    .k-notification {
+        padding: 6px;
+    }
+    
+}
