@@ -14,7 +14,7 @@ const operations = [
     id: "randomUser",
   },
   {
-    text: "Give random money to all users",
+    text: "Give random money to every user",
     id: "randomMoney",
   },
   {

@@ -3,7 +3,6 @@ import React, { useState, useEffect } from 'react';
 import BoardTable from "./BoardTable"
 import Operations from "../Operations/Operations"
 
-
 import classes from './leader-board.module.scss';
 
 const loadingPanel = (
